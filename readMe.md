@@ -2,7 +2,9 @@ This database was created for my Oracle/SQL class, as a demonstration of my SQL 
 
 It is created as a simulation of an airlines operations, with tables for everything that would be needed for customer-facing operation. With this, you are able to sell tickets between two cities, give refunds, create delays, track luggage, and more. An explanation of the most important parts are given below the build instructions.
 
-To build the database, run the files in the following order in Oracle:
+To build with just one file, run **createAll.sql**.
+
+To build the database individually, run the files in the following order in Oracle:
 
 **1) createSequences.sql**
 
@@ -26,9 +28,8 @@ To build the database, run the files in the following order in Oracle:
 **6) createViews.sql**
 
 	Creates views.
-**7) dropAll.sql**
 
-	Drops everything, in order.
+To drop the database, simply run **dropAll.sql**.
 
   
 
