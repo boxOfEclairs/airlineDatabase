@@ -2,7 +2,7 @@ This database was created for my Oracle/SQL class, as a demonstration of my SQL 
 
 It is created as a simulation of an airlines operations, with tables for everything that would be needed for customer-facing operation. With this, you are able to sell tickets between two cities, give refunds, create delays, track luggage, and more. An explanation of the most important parts are given below the build instructions. Sample data for every table is given.
 
-An ER diagram is provided in "AirlineERdiagram.png".
+![test](https://github.com/boxOfEclairs/airlineDatabase/blob/main/AirlineERdiagram.png)
 
 To build with just one file, run **createAll.sql**.
 
